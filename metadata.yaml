@@ -1,11 +1,16 @@
 _repo: An-Englishwoman-s-twenty-five-years-in-tropical-Africa-b-Being-the-biography-of-Gwen-Elen-Lew__74425
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74425-h/images/cover.jpg
 creator:
   author:
     agent_name: Hawker, George
     gutenberg_agent_id: '57500'
     url: http://www.gutenberg.org/2009/agents/57500
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74425#An-Englishwoman-s-twenty-five-years-in-tropical-Africa-b-Being-the-biography-of-Gwen-Elen-Lew_
 gutenberg_issued: '2024-09-16'
 gutenberg_type: Text
 identifiers:
